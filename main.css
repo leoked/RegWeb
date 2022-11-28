@@ -1,0 +1,37 @@
+.helpBot {
+    position: fixed;
+    padding: 20px;
+    bottom: 0;
+    right: 0;
+}
+.helpBot #widget-nav {
+    background-color:rgb(86, 158, 236);
+    /*border-color:black;
+    border-style: solid;
+    */
+    height: 35px;
+}
+
+.helpBot #button {
+    position: fixed;
+    margin: 25px;
+    margin-right: 35px;
+    border-radius: 50%;
+    border: none;
+    box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 1px 2px rgb(0 0 0 / 23%);
+    background-color:  white;  
+    bottom: 0;
+    right: 0;
+}
+
+.helpBot #logo {
+    width: 75px;
+    margin: 0%;
+    height: auto;  
+}
+
+#widget {
+    display: block;
+    margin-bottom: 90px;
+    margin-right: 20px;
+}
